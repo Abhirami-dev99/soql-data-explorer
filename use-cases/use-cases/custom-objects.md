@@ -1,6 +1,6 @@
 ---
 
-📄 custom-objects.md (for Customer__c)
+## 📄 custom-objects.md (for Customer__c)
 
 # 📁 Custom Object - Customer__c SOQL Use Cases
 

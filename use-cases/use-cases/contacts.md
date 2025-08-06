@@ -1,6 +1,6 @@
 ---
 
-📄 contacts.md 
+## 📄 contacts.md 
 
 # 📁 Contact Object - SOQL Use Cases
 
