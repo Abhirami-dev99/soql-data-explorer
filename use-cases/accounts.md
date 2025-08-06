@@ -10,7 +10,7 @@ A collection of commonly used and practical SOQL queries on the Account object i
 
 ## 1️⃣ Get All Active Accounts
 
-```soql
+soql
 SELECT Id, Name, Industry, Rating 
 FROM Account 
 WHERE IsActive__c = TRUE
