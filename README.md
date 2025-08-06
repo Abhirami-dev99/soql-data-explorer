@@ -4,11 +4,11 @@ This repository contains real-world SOQL queries categorized by Salesforce objec
 
 ## 📁 Sections
 
-- [Accounts](use-cases/accounts.md)
-- [Contacts](use-cases/contacts.md)
-- [Opportunities](use-cases/opportunities.md)
-- [Cases](use-cases/cases.md)
-- [Custom Objects](use-cases/custom-objects.md)
+- [Accounts](https://github.com/Abhirami-dev99/soql-data-explorer/blob/main/use-cases/accounts.md)
+- [Contacts](https://github.com/Abhirami-dev99/soql-data-explorer/blob/main/use-cases/contacts.md)
+- [Opportunities](https://github.com/Abhirami-dev99/soql-data-explorer/blob/main/use-cases/opportunities.md)
+- [Cases](https://github.com/Abhirami-dev99/soql-data-explorer/blob/main/use-cases/cases.md)
+- [Custom Objects](https://github.com/Abhirami-dev99/soql-data-explorer/blob/main/use-cases/custom-objects.md)
 
 ---
 
