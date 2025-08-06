@@ -2,7 +2,6 @@
 
 ## 📄 cases.md 
 
-md
 # 📁 Case Object - SOQL Use Cases
 
 Key queries to track support workload, case resolution, and customer satisfaction.
