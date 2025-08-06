@@ -10,7 +10,7 @@ These sample SOQL queries help interact with a custom object Customer__c. You ca
 
 ## 1️⃣ Get All Active Customers
 
-```soql
+soql
 SELECT Id, Name, Status__c, CreatedDate 
 FROM Customer__c 
 WHERE Status__c = 'Active'

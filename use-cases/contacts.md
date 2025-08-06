@@ -10,7 +10,7 @@ Real-world SOQL queries to fetch and analyze contact data in Salesforce. These h
 
 ## 1️⃣ All Contacts with Email and Phone
 
-```soql
+soql
 SELECT Id, FirstName, LastName, Email, Phone 
 FROM Contact 
 WHERE Email != NULL AND Phone != NULL
