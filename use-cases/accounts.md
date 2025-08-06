@@ -8,7 +8,7 @@ A collection of commonly used and practical SOQL queries on the Account object i
 
 ---
 
-## 1️⃣ Get All Active Accounts
+ 1️⃣ Get All Active Accounts
 
 soql
 SELECT Id, Name, Industry, Rating 

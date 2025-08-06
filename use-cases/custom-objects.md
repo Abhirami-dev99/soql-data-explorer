@@ -8,7 +8,7 @@ These sample SOQL queries help interact with a custom object Customer__c. You ca
 
 ---
 
-## 1️⃣ Get All Active Customers
+1️⃣ Get All Active Customers
 
 soql
 SELECT Id, Name, Status__c, CreatedDate 

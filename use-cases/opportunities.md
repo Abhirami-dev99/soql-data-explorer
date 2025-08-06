@@ -8,7 +8,7 @@ Powerful queries to understand your sales pipeline, forecast revenue, and manage
 
 ---
 
-## 1️⃣ All Open Opportunities
+1️⃣ All Open Opportunities
 
 soql
 SELECT Id, Name, StageName, Amount, CloseDate 

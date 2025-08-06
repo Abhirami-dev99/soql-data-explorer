@@ -8,7 +8,7 @@ Real-world SOQL queries to fetch and analyze contact data in Salesforce. These h
 
 ---
 
-## 1️⃣ All Contacts with Email and Phone
+1️⃣ All Contacts with Email and Phone
 
 soql
 SELECT Id, FirstName, LastName, Email, Phone 
