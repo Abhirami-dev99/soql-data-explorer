@@ -2,7 +2,6 @@
 
 ## 📄 opportunities.md 
 
-md
 # 📁 Opportunity Object - SOQL Use Cases
 
 Powerful queries to understand your sales pipeline, forecast revenue, and manage deal progress.
